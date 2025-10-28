@@ -27,7 +27,7 @@ Banco de Dados: MySQL
 
 • Na pasta DAO, Modifique o arquivo Conexao.java mudando a URL do banco que você criou, o Usuário e a senha;
 
-• Entre na pasta VIEW e rode o programa através do Main.java;
+• Entre na pasta VIEW e rode o programa através do arquivo Main.java;
 
 • Pelo terminal você terá acesso à todas as funcionalidades;
 
