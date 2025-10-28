@@ -2,17 +2,9 @@
 Sistema de gestão acadêmica desenvolvido para facilitar o controle de alunos, turmas, disciplinas e desempenho escolar. 
 
 ## Funcionalidades
-• Cadastro de alunos, professores e funcionários
+• Cadastro de alunos e professores
 
 • Gerenciamento de turmas e disciplinas
-
-• Lançamento e consulta de notas
-
-• Controle de frequência
-
-• Relatórios acadêmicos
-
-• Autenticação e controle de acesso por perfil
 
 ## Tecnologias Utilizadas
 • Linguagem: JAVA
@@ -29,8 +21,21 @@ Banco de Dados: MySQL
 
 • Entre na pasta VIEW e rode o programa através do arquivo Main.java;
 
-• Pelo terminal você terá acesso à todas as funcionalidades;
+• Pelo terminal você terá acesso à todas as funcionalidades.
 
 ## ATENÇÃO ⚠️
 
 • Os dados que estão presentes na tabela do banco de dados NÃO SÃO VERÍDICOS, foram todos criados aleatóriamente para a realização da atividade 
+
+
+## Upgrades futuros para o sistema
+
+• Cadastro de alunos, professores e a nova classe funcionários;
+
+• Lançamento e consulta de notas;
+
+• Controle de frequência;
+
+• Relatórios acadêmicos;
+
+• Autenticação e controle de acesso por perfil.
